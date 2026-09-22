@@ -6,12 +6,12 @@ Kimi Skill：万科公文版式 Word 一键排版。
 
 把下面这句话发给你的 Kimi / Claude Code / 任意 Agent：
 
-> 现在为你安装 format-vanke-docx 技能，请执行 `curl -fsSL https://raw.githubusercontent.com/munn19900917-eng/format-vanke-docx/main/install.sh | bash`，装完重启 Kimi 即可；之后说"按万科格式排一下这个 Word"会自动触发。
+> 现在为你安装 format-vanke-docx 技能，请执行 `curl -fsSL https://cdn.jsdelivr.net/gh/munn19900917-eng/format-vanke-docx@main/install.sh | bash`，装完重启 Kimi 即可；之后说"按万科格式排一下这个 Word"会自动触发。
 
-也可以手动：
+也可以手动执行：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/munn19900917-eng/format-vanke-docx/main/install.sh | bash
+curl -fsSL https://cdn.jsdelivr.net/gh/munn19900917-eng/format-vanke-docx@main/install.sh | bash
 ```
 
 ## 版式
